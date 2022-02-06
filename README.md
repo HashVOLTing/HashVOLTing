@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HashVOLTing
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on gamejams
+- 💞️ I’m looking to finish school :sob:
 - 📫 How to reach me: hashvolting.info@gmail.com
 
 <!---
